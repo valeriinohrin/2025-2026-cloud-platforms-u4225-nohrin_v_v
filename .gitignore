@@ -1,6 +1,30 @@
+# GitHub Pages / Jekyll ignores
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler vendor folder
+/vendor
+
+# GitHub Pages does not use Gemfile.lock
+Gemfile.lock
+
+# Python cache
 __pycache__/
-*.log
 *.pyc
+*.pyo
+
+# Logs
+*.log
+
+# OS files
 .DS_Store
+
+# IDEs
 .idea/
 .vscode/
+
+# Node-related (если вдруг будет фронт)
+node_modules/
+dist/
