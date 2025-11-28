@@ -1,1 +1,3 @@
-# 2025-2026-cloud-platforms-u4225-nohrin_v_v
+Автор: Нохрин Валерий Витальевич
+Группа: U4225 
+Telegram: [@valerius_spb]
